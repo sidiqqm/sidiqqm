@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @sidiqqm
-- 🔭 I’m currently studyin at Universitas Sumatera Utara
+- 🔭 I’m currently studying at Universitas Sumatera Utara
 - 🌱 I’m interested in Web Development and Machine Learning
 - 📫 How to reach me: moehammad.siddiq@gmail.com
